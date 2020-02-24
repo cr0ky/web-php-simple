@@ -13,5 +13,6 @@
 echo "Hello World! <br/>";
 echo "Hello Lansweeper";
 
+echo "<br/> LATEST";
 
 ?>
